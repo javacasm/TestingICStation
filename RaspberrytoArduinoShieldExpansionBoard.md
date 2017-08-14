@@ -57,6 +57,17 @@ Para detectar la dirección de la pantalla
 
       i2cdetect -y 1
 
+
+Para instalar la librería
+
+
+    sudo apt-get update
+    sudo apt-get install build-essential python-dev python-smbus python-pip git
+    sudo pip install RPi.GPIO
+    git clone https://github.com/adafruit/Adafruit_Python_CharLCD.git
+    cd Adafruit_Python_CharLCD
+    sudo python setup.py install
+
 [Tutorial de montaje](http://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/)
 
 ![pinout](https://github.com/javacasm/DomoticaOnlineDE/raw/master/Raspberry/images/RP2_Pinout.png)
