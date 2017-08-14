@@ -19,3 +19,20 @@
 
 * Añadiría un chip ADC conectado por I2C
 * Permitir usar una alimentación externa de los grupos de 3 pines
+
+
+## Ejemplos
+
+### Controlando un relé
+
+### Leyendo un sensor de temperatura/humedad DHT11
+
+[Tutorial Adafruit](https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging?view=all)
+
+### Controlando un servo
+
+[Tutorial Adafruit ](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-8-using-a-servo-motor?view=all)
+
+### Usando un LCD con interface I2C
+
+[Tutorial adafruit](https://learn.adafruit.com/adafruit-16x2-character-lcd-plus-keypad-for-raspberry-pi?view=all)
