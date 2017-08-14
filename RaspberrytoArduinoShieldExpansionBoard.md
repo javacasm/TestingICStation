@@ -27,6 +27,8 @@
 
 ### Leyendo un sensor de temperatura/humedad DHT11
 
+![pinout DHT11](http://domoticx.com/wp-content/uploads/DHT11-Pinout-keyes.jpg)
+
 [Tutorial Adafruit](https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging?view=all)
 
 ### Controlando un servo
@@ -35,4 +37,6 @@
 
 ### Usando un LCD con interface I2C
 
-[Tutorial adafruit](https://learn.adafruit.com/adafruit-16x2-character-lcd-plus-keypad-for-raspberry-pi?view=all)
+[Tutorial de montaje](http://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/)
+
+[Tutorial adafruit de shield LCD](https://learn.adafruit.com/adafruit-16x2-character-lcd-plus-keypad-for-raspberry-pi?view=all)
