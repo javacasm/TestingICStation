@@ -37,6 +37,28 @@
 
 ### Usando un LCD con interface I2C
 
+
+* Activamos el i2c
+
+INSTALL I2C-TOOLS AND SMBUS
+Now we need to install a program called I2C-tools, which will tell us the I2C address of the LCD when it’s connected to the Pi. So at the command prompt, enter
+
+
+      sudo apt-get install i2c-tools.
+
+Next we need to install SMBUS, which gives the Python library we’re going to use access to the I2C bus on the Pi. At the command prompt, enter
+
+
+      sudo apt-get install python-smbus.
+
+
+Para detectar la dirección de la pantalla
+
+
+      i2cdetect -y 1
+
 [Tutorial de montaje](http://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/)
+
+![pinout](https://github.com/javacasm/DomoticaOnlineDE/raw/master/Raspberry/images/RP2_Pinout.png)
 
 [Tutorial adafruit de shield LCD](https://learn.adafruit.com/adafruit-16x2-character-lcd-plus-keypad-for-raspberry-pi?view=all)
