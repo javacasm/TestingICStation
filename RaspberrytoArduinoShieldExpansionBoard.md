@@ -5,7 +5,7 @@
 
 ![pic](http://www.icstation.com/images/big/products/5710_4_8525.jpg)
 
-[Documentación del creador del producto](https://www.itead.cc/wiki/RPI_Arduino_Sheild_Add-on_V2.0)
+[Documentación del creador del producto](https://www.itead.cc/wiki/RPI_Arduino_Sheild_Add-on_V2.0S)
 
 ## Pros
 
