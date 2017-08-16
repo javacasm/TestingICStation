@@ -1,25 +1,35 @@
 # Raspberry to Arduino Shield Expansion board
 
+El fabricante ICStation nos ha enviado un placa [Raspberry Pi To Arduino Shield Expansion Board Adapter Board Add-on](http://www.icstation.com/raspberry-arduino-shield-expansion-board-adapter-board-p-5710.html) para probarla
 
-[Raspberry Pi To Arduino Shield Expansion Board Adapter Board Add-on](http://www.icstation.com/raspberry-arduino-shield-expansion-board-adapter-board-p-5710.html)
+Se trata de una placa que nos nos permite contectar shield de Arduino a nuestra Raspberry (versión 2 y 3)
 
 ![pic](http://www.icstation.com/images/big/products/5710_4_8525.jpg)
 
-[Documentación del creador del producto](https://www.itead.cc/wiki/RPI_Arduino_Sheild_Add-on_V2.0S)
+El fabricante de la placa es Itead Studio que tal como nos tiene acostumbrado proporciona una buena documentación ()
+[Documentación del creador del producto](https://www.itead.cc/wiki/RPI_Arduino_Sheild_Add-on_V2.0S))
+
 
 ## Pros
 
 * Facilita el montaje de shields
-* Permite conecta muchos servos o sensores de 3 cables directamente
-* Facilita conectar dispositivos I2C o serie de forma sencilla
+* Permite conecta muchos servos, sensores de 3 cables directamente u otros módulos como relé.
+* Facilita conectar dispositivos I2C o serie con conectores Groove de forma directa.
 * Permite cambiar la alimentación entre 5V y 3.3V
 * Continúa el bus de la Raspberry para poder añadir más dispositivos
 
 ## Mejoras
 
-* Añadiría un chip ADC conectado por I2C
-* Permitir usar una alimentación externa de los grupos de 3 pines
+Aunque el dispositivo es bueno, creo que es susceptible de algunas mejoras
+* Añadiría un chip ADC conectado por I2C para dotar a Raspberry de ADC
+* Permitiría usar una alimentación externa de los grupos de 3 pines y así poder soportar el uso de dispositivos que requieren de más potencia como los relé
+* Cambiaría los conectores Groove por conectores de pines, que en mi opinión son más estándar.
 
+## Conclusiones
+
+En definitiva una placa muy interesante y útil y a un precio muy competitivo.
+
+En breve espero publicar algunos ejemplos de su uso con relés, sensores DHT, LCD, etc...
 
 ## Ejemplos
 
