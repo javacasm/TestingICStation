@@ -1,8 +1,8 @@
-# Raspberry to Arduino Shield Expansion board
+# ICStation.com: Raspberry to Arduino Shield Expansion board - Testing
 
 El fabricante ICStation nos ha enviado un placa [Raspberry Pi To Arduino Shield Expansion Board Adapter Board Add-on](http://www.icstation.com/raspberry-arduino-shield-expansion-board-adapter-board-p-5710.html) para probarla
 
-Se trata de una placa que nos nos permite contectar shield de Arduino a nuestra Raspberry (versión 2 y 3)
+Se trata de una placa que nos nos permite conectar shield de Arduino a nuestra Raspberry (versión 2 y 3)
 
 ![pic](http://www.icstation.com/images/big/products/5710_4_8525.jpg)
 
