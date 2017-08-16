@@ -6,8 +6,7 @@ Se trata de una placa que nos nos permite conectar shield de Arduino a nuestra R
 
 ![pic](http://www.icstation.com/images/big/products/5710_4_8525.jpg)
 
-El fabricante de la placa es Itead Studio que tal como nos tiene acostumbrado proporciona una buena documentación ()
-[Documentación del creador del producto](https://www.itead.cc/wiki/RPI_Arduino_Sheild_Add-on_V2.0S))
+El fabricante de la placa es Itead Studio que tal como nos tiene acostumbrado proporciona una buena documentación ([Documentación del creador del producto](https://www.itead.cc/wiki/RPI_Arduino_Sheild_Add-on_V2.0S)))
 
 
 ## Pros
